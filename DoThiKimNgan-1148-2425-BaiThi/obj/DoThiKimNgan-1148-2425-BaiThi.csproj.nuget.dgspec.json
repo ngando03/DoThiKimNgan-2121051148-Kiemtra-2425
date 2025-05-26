@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi.csproj": {}
+    "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi.csproj": {
+    "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi.csproj",
+        "projectUniqueName": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi.csproj",
         "projectName": "DoThiKimNgan-1148-2425-BaiThi",
-        "projectPath": "C:\\Users\\ADMIN\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi.csproj",
+        "projectPath": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi\\obj\\",
+        "outputPath": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,11 +44,53 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Core": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

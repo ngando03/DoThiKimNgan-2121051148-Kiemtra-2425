@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34B0DDC0-00E5-1FB3-F1BC-8BDFB8525387}|DoThiKimNgan-1148-2425-BaiThi.csproj|f:\\dothikimngan-2121051148-kiemtra-2425\\dothikimngan-1148-2425-baithi\\controllers\\k2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B0DDC0-00E5-1FB3-F1BC-8BDFB8525387}|DoThiKimNgan-1148-2425-BaiThi.csproj|solutionrelative:controllers\\k2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B0DDC0-00E5-1FB3-F1BC-8BDFB8525387}|DoThiKimNgan-1148-2425-BaiThi.csproj|f:\\dothikimngan-2121051148-kiemtra-2425\\dothikimngan-1148-2425-baithi\\models\\k2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B0DDC0-00E5-1FB3-F1BC-8BDFB8525387}|DoThiKimNgan-1148-2425-BaiThi.csproj|solutionrelative:models\\k2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B0DDC0-00E5-1FB3-F1BC-8BDFB8525387}|DoThiKimNgan-1148-2425-BaiThi.csproj|f:\\dothikimngan-2121051148-kiemtra-2425\\dothikimngan-1148-2425-baithi\\views\\k2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B0DDC0-00E5-1FB3-F1BC-8BDFB8525387}|DoThiKimNgan-1148-2425-BaiThi.csproj|solutionrelative:views\\k2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B0DDC0-00E5-1FB3-F1BC-8BDFB8525387}|DoThiKimNgan-1148-2425-BaiThi.csproj|f:\\dothikimngan-2121051148-kiemtra-2425\\dothikimngan-1148-2425-baithi\\views\\k2\\creat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34B0DDC0-00E5-1FB3-F1BC-8BDFB8525387}|DoThiKimNgan-1148-2425-BaiThi.csproj|solutionrelative:views\\k2\\creat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B0DDC0-00E5-1FB3-F1BC-8BDFB8525387}|DoThiKimNgan-1148-2425-BaiThi.csproj|f:\\dothikimngan-2121051148-kiemtra-2425\\dothikimngan-1148-2425-baithi\\dothikimngan-1148-2425-baithi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34B0DDC0-00E5-1FB3-F1BC-8BDFB8525387}|DoThiKimNgan-1148-2425-BaiThi.csproj|solutionrelative:dothikimngan-1148-2425-baithi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Creat.cshtml",
+              "DocumentMoniker": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\Views\\K2\\Creat.cshtml",
+              "RelativeDocumentMoniker": "Views\\K2\\Creat.cshtml",
+              "ToolTip": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\Views\\K2\\Creat.cshtml",
+              "RelativeToolTip": "Views\\K2\\Creat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T01:53:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "K2.cs",
+              "DocumentMoniker": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\Models\\K2.cs",
+              "RelativeDocumentMoniker": "Models\\K2.cs",
+              "ToolTip": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\Models\\K2.cs",
+              "RelativeToolTip": "Models\\K2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:49:39.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\Views\\K2\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\K2\\Index.cshtml",
+              "ToolTip": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\Views\\K2\\Index.cshtml",
+              "RelativeToolTip": "Views\\K2\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T01:42:23.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "K2Controller.cs",
+              "DocumentMoniker": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\Controllers\\K2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\K2Controller.cs",
+              "ToolTip": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\Controllers\\K2Controller.cs",
+              "RelativeToolTip": "Controllers\\K2Controller.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:36:12.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoThiKimNgan-1148-2425-BaiThi",
+              "DocumentMoniker": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi.csproj",
+              "RelativeDocumentMoniker": "DoThiKimNgan-1148-2425-BaiThi.csproj",
+              "ToolTip": "F:\\DoThiKimNgan-2121051148-Kiemtra-2425\\DoThiKimNgan-1148-2425-BaiThi\\DoThiKimNgan-1148-2425-BaiThi.csproj",
+              "RelativeToolTip": "DoThiKimNgan-1148-2425-BaiThi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T01:26:50.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
